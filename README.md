@@ -1,3 +1,6 @@
+
+<img width="100%" src="https://user-images.githubusercontent.com/23408500/39268928-8035e204-48d1-11e8-944e-c7fe655a4f65.png"/>
+
 ## Table des matières
 
 - [Introduction](#introduction)
